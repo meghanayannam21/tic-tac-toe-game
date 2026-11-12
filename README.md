@@ -2,7 +2,7 @@
 
 A simple Tic Tac Toe game created using HTML, CSS, and JavaScript.
 
-**Play the Game:** [Click Here][(https://meghanayannam21.github.io/tic-tac-toe-game/)]
+**Play the Game:**(https://meghanayannam21.github.io/tic-tac-toe-game/)
 
 ## Technologies Used
 - HTML
